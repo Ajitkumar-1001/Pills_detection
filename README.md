@@ -7,8 +7,6 @@
 
 <div align="center">
 <u><h1><bold>Contributors</bold></h1></u>
-<ul align="center>
-Ajitkumar – MS Data Science
-
-Aditi Tata – MS Biomedical Engineering
-</ul>
+* **Ajitkumar** – MS Data Science
+* **Aditi Tata** – MS Biomedical Engineering
+</div>
