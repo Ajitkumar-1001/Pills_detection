@@ -1,12 +1,13 @@
-<div align="center">
-<u><h1><bold>Pills Detection</bold></h1></u>
+<h1 align="center">Pills Detection</h1>
 
-<div align="center">
-<p> aims to assist healthcare professionals and patients in identifying medications accurately to prevent medication errors. </p>
+<p align="center">
+An intelligent system designed to assist healthcare professionals and patients in accurately identifying medications, helping reduce medication errors and improve patient safety.
+</p>
 
 
-<div align="center">
-<u><h1><bold>Contributors</bold></h1></u>
-* **Ajitkumar** – MS Data Science
-* **Aditi Tata** – MS Biomedical Engineering
-</div>
+<u><h2 align="center">Contributors</h2></u>
+
+<p align="center">
+<strong>Ajitkumar</strong> — MS in Data Science <br/>
+<strong>Aditi Tata</strong> — MS in Biomedical Engineering
+</p>
