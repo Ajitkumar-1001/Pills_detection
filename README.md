@@ -20,11 +20,7 @@ With the current dataset alone, the model cannot reliably:
 - classify pill type or brand
 - read imprint text or perform fine-grained recognition
 
-## Dataset
 
-The current project can use the Kaggle dataset:
-
-- [Pills Detection Dataset](https://www.kaggle.com/datasets/alexanderyyy/pills-detection-dataset/data)
 
 Dataset notes:
 
