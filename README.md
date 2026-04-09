@@ -42,7 +42,7 @@ If the goal later becomes medication recognition, the project will need addition
 
 ## Licensing Note
 
-The Kaggle dataset page lists the dataset license as `CC BY-NC-SA 4.0`. That means it is appropriate for research, academic, and non-commercial use, but it should not be used directly for commercial deployment without resolving licensing constraints.
+The  dataset page lists the dataset license as `CC BY-NC-SA 4.0`. That means it is appropriate for research, academic, and non-commercial use, but it should not be used directly for commercial deployment without resolving licensing constraints.
 
 <u><h2 align="center">Contributors</h2></u>
 
